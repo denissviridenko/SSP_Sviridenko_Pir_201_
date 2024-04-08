@@ -1,1 +1,1 @@
-# SSP_Sviridenko_Pir_201_
+# react_native
